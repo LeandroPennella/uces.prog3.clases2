@@ -1,0 +1,7 @@
+Pablo,24
+Silvia,32
+Paula,27
+Roque,45
+Gilbert,72
+Mario,15
+Rambo,19

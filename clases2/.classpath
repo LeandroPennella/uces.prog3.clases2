@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="u1 _ Decir edades"/>
+	<classpathentry kind="src" path="u4 _ Comparator"/>
+	<classpathentry kind="src" path="u4 _ equals, hashCode, compareTo , Collections"/>
+	<classpathentry kind="src" path="u4 _ Mapas"/>
+	<classpathentry kind="src" path="u5 _ Excepciones clase 1 - dejarla subir"/>
+	<classpathentry kind="src" path="u5 _ Excepciones clase 1 - try catch"/>
+	<classpathentry kind="src" path="u5 _ Excepciones clase 2 - mi excepcion"/>
+	<classpathentry kind="src" path="u5 _ Excepciones clase 3 - InestableException"/>
+	<classpathentry kind="src" path="u6_ Semáforo - Patron State"/>
+	<classpathentry kind="src" path="u7 _ Armar Lista a Partir de txt"/>
+	<classpathentry kind="src" path="u7 _ Copiar Archivo"/>
+	<classpathentry kind="src" path="u7 _ Escribir y leer con Data"/>
+	<classpathentry kind="src" path="u7 _ Escribir y leer con Object"/>
+	<classpathentry kind="src" path="u7 º Clase 1 File"/>
+	<classpathentry kind="src" path="u8 - ThreadsDiego"/>	
+	<classpathentry kind="src" path="u8 _ Thread - Hola mundo_"/>
+	<classpathentry kind="src" path="u8 _ Thread Contador"/>
+	<classpathentry kind="src" path="u8 _ Threads"/>
+	<classpathentry kind="src" path="u8_ Productor-Consumidor"/>
+
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
+
